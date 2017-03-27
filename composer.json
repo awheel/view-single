@@ -1,0 +1,21 @@
+{
+    "name": "light/view-single",
+    "description": "View for single-page application",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fengqi",
+            "email": "lyf362345@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "light\\ViewSingle\\": "src/"
+        }
+    }
+}
