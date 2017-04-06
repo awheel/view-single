@@ -1,18 +1,19 @@
 {
     "name": "awheel/view-single",
     "description": "View for single-page application",
-    "type": "library",
+    "license": "MIT",
+    "homepage": "http://awheel.com",
     "require": {
         "php": ">=5.4.0"
     },
-    "license": "MIT",
     "authors": [
         {
             "name": "fengqi",
             "email": "lyf362345@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "awheel\\ViewSingle\\": "src/"

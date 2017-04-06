@@ -1,4 +1,4 @@
 View Single
 ====
 
-SPA
+View for single-page application (SPA)
