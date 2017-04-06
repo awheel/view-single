@@ -2,6 +2,6 @@
 
 return [
     'component' => [
-        'light\ViewSingle\ViewComponent'
+        'awheel\ViewSingle\ViewComponent'
     ]
 ];

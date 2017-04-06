@@ -1,5 +1,5 @@
 {
-    "name": "light/view-single",
+    "name": "awheel/view-single",
     "description": "View for single-page application",
     "type": "library",
     "require": {
@@ -15,7 +15,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "light\\ViewSingle\\": "src/"
+            "awheel\\ViewSingle\\": "src/"
         }
     }
 }

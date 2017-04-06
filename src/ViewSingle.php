@@ -1,11 +1,11 @@
 <?php
 
-namespace light\ViewSingle;
+namespace awheel\ViewSingle;
 
 /**
  * View 层
  *
- * @package light
+ * @package awheel
  */
 class ViewSingle
 {
